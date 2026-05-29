@@ -91,6 +91,8 @@ Profit -	Profit earned
 
 ![image alt](https://github.com/VivekKarippara/superstore-sales-eda-python/blob/main/Graphs/Sales%20and%20Profit%20by%20Shipping%20Mode.png)
 
+![image alt](https://github.com/VivekKarippara/superstore-sales-eda-python/blob/main/Graphs/Original%20Price%20vs%20Discounted%20Price%20(Line%20Plot).png)
+
 
 
 ## 👨‍💻 Author
