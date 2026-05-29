@@ -77,7 +77,17 @@ Profit -	Profit earned
 •	Detected potential data quality issues affecting business insights  
 
 ## 📷 Sample Dashboard / Visuals
-Add charts or screenshots here.
+![image alt](https://github.com/VivekKarippara/superstore-sales-eda-python/blob/main/Graphs/Customer%20Sales%20vs%20Profit%20Quintile.png)
+
+![image alt](https://github.com/VivekKarippara/superstore-sales-eda-python/blob/main/Graphs/Distribution%20of%20Shipping%20Urgency%20.png)
+
+![image alt](https://github.com/VivekKarippara/superstore-sales-eda-python/blob/main/Graphs/Profitability_of_Shipping_Mode.png)
+
+![image alt](https://github.com/VivekKarippara/superstore-sales-eda-python/blob/main/Graphs/Sales%20vs%20Profit%20Correlation.png)
+
+![image alt](https://github.com/VivekKarippara/superstore-sales-eda-python/blob/main/Graphs/top_10_loss_making_products.png)
+
+![image alt](https://github.com/VivekKarippara/superstore-sales-eda-python/blob/main/Graphs/top_10_profitable_products.png)
 
 ## 👨‍💻 Author
 Vivek Karippara  
