@@ -18,7 +18,6 @@ The objective of this project is to clean, transform, and analyze the dataset to
 •	Build a reusable and well-documented Jupyter Notebook workflow  
 
 ## 📂 Dataset Information  
-Dataset Features  
 The dataset contains 21 columns, including:  
 Column Name	Description  
 Row ID	- Unique row identifier  
@@ -50,7 +49,7 @@ Profit -	Profit earned
 •	NumPy  
 •	Matplotlib  
 •	Seaborn  
-________________________________________
+
 ## 📊 Exploratory Data Analysis Performed  
 ### Data Cleaning  
 •	Checked missing values  
@@ -69,7 +68,7 @@ ________________________________________
 •	Regional Trends  
 •	Shipping Insights  
 •	Discount Impact Analysis  
-________________________________________
+
 ## 🔍 Key Insights
 •	Identified high-performing product categories and regions  
 •	Analyzed the impact of discounts on profitability  
