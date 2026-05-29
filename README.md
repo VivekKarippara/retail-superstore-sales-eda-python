@@ -89,6 +89,10 @@ Profit -	Profit earned
 
 ![image alt](https://github.com/VivekKarippara/superstore-sales-eda-python/blob/main/Graphs/top_10_profitable_products.png)
 
+![image alt](https://github.com/VivekKarippara/superstore-sales-eda-python/blob/main/Graphs/Sales%20and%20Profit%20by%20Shipping%20Mode.png)
+
+
+
 ## 👨‍💻 Author
 Vivek Karippara  
 If you liked this project, feel free to ⭐ the repository.  
