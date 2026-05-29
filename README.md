@@ -19,7 +19,7 @@ The objective of this project is to clean, transform, and analyze the dataset to
 
 ## 📂 Dataset Information  
 The dataset contains 21 columns, including:  
-Column Name	Description  
+### Column Name	Description  
 Row ID	- Unique row identifier  
 Order ID	- Unique order identifier    
 Order Date	- Date of order placement    
