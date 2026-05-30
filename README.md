@@ -1,4 +1,4 @@
-# 🛒 Superstore Sales EDA Case Study  
+# 🛒 Superstore Sales Case Study  
 ## 📖  Project Overview  
 This project focuses on performing Exploratory Data Analysis (EDA) on the popular Superstore Sales dataset using Python and Jupyter Notebook.  
 The dataset contains multiple data quality issues such as:  
